@@ -1,2 +1,2 @@
-# nicks-pizzeria
-CTF Scripts
+# Nicks Pizzeria
+My CTF Scripts
